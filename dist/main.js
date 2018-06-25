@@ -376,6 +376,10 @@ var StepZilla = function (_Component) {
             'span',
             null,
             _this5.props.steps[i].name
+          ),
+          _react2.default.createElement(
+            'span',
+            null,
           )
         );
       });
